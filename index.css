@@ -1,0 +1,69 @@
+.main{
+    font-family: Brush script MT;
+    font-weight: bolder;
+    margin-left: 530px;
+    padding-top: 30px;
+    padding-bottom: -120px;
+    color: rgb(96, 41, 41);
+}
+.card{
+    margin-left: 420px;
+    margin-top: 30px;
+    width: 400px;
+    height: 450px;
+    /* border: 1px solid white !important; */
+    box-shadow: 5px 5px 10px rgb(162, 73, 73);
+    background-image: linear-gradient(to bottom, rgb(247, 169, 169), rgb(179, 186, 42));
+    overflow: auto;
+}
+.card-title{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(68, 64, 64);
+}
+.card-text{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 47px;
+    color: rgb(68, 64, 64);
+}
+.btn{
+    width: 230px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+#increse{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    color: white;
+    background-color: brown;
+    border: 1px solid brown !important;
+}
+#saves{
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    background-color: rgb(102, 102, 230);
+    border: 1px solid rgb(102, 102, 230) !important;
+}
+#clr{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    background-color: red;
+    border: 1px solid red !important;
+    position: sticky;
+    bottom: 0;
+}
+#store{
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+}
